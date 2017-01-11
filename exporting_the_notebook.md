@@ -15,6 +15,7 @@ At the end of this lesson, you will be able to
 - Recognize and identify the various publishing related data formats.
 - Use NBConvert to export their notebooks in a variety of formats including HTML, PDF, markdown, LaTeX and Reveal.js slides.
 - Select an appropriate output format for their publication and justify their choice.
+- Create a GitHub account and upload a Jupyter notebook to your GitHub repository for public viewing. 
 
 # Output formats
 
