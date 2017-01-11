@@ -13,9 +13,21 @@ Four modules:
 Total: 2 hrs, 35 minutes  
 
 ## 1) Exporting your Notebook
+
 ### Timeline
+- Presentation of different formats (10 minutes)
+- Search for examples of different formats online and discuss (10 minutes)
+- Demonstration of Jupyter Notebook export (10 minutes)
+
 ### Customization
+- If your participants are expecting to be able to create PDF images, you can instruct them to download and install the Pandoc and LaTeX packages in advance of the workshop.  However, these may produce installation troubles.
+
 ### Resources
+- We have included callouts for some of the more involved aspects of notebook conversion.
+- It is worth verifying before the lesson that your installation of the notebook gives the expected behavior with images.  The most portable thing is to embed the images in the document.
+- By default, GUI html export embeds as Base64
+- By default, GUI markdown export creates a folder and a zip
+
 
 ## 2) Documentation  
 ### Timeline
