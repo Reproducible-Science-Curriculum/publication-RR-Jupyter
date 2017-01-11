@@ -30,9 +30,13 @@ Below, we briefly describe a few formats that are widely used for publication.
 
 The PDF format is primarily used for paper-based output.  It contains information about the paper size and the margins.  It can be displayed on a webpage but it is somewhat like posting an image.
 
+You would use the PDF format if you were interested in printing a copy of your notebook for hand-written comments or for sending to co-authors for reading and commenting in tools like Adobe Acrobat.
+
 ## HTML
 
 The HTML format is the native format for the internet.  It does not contain information about printing on paper usually.  Exporting to this format is a popular means of posting content to the web.
+
+If you have a website that you manage, publishing to HTML can make it easy to add your notebook as a page to a website.
 
 ## Markdown
 
@@ -40,7 +44,10 @@ Markdown is a plain-text format that was designed to be easily exported to HTML.
 
 ## LaTeX
 
-LaTeX is a plain-text format that is often compiled into a PDF format.  It is also often used as a submission format for journals.
+LaTeX is a plain-text format that is often compiled into a PDF format using the LaTeX software.  It was originally created for mathematical typesetting and is widely used for publication.
+
+Some of your co-authors may be more comfortable editing LaTeX files than notebook files.
+It is also often used as a submission format for journals.
 
 ## Reveal.js
 
