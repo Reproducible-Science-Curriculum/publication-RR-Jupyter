@@ -21,10 +21,10 @@ In this lesson, we will discuss the types and styles for documentation, their ut
 ## A Gallery of Awesome Jupyter Notebooks
 You are now familiar with the process of creating and using a Jupyter Notebook for reproducible research. You may be wondering how others have been using the Notebook. Luckly, the IPython community curates a **Gallery of IPython Notebooks” that have been used for science research and educational tutorials [here](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks). On your own, I encourage you to browse the topics that peek your curiosity. 
 Here are some cool features that have been added to notebooks:
-[One with a table of contents, chemical equations, and a an embedded video](http://nbviewer.jupyter.org/github/jckantor/CBE20255/blob/master/notebooks/Psychrometrics.ipynb)
-[One with multipanel figures that are nicely refered to with Figure 1A, 1B, etc like you see in a printed publication](https://anaconda.org/jbednar/plotting_pitfalls/notebook)
-[One about graffti in subway stations that that has no images of graffitti in a subway station](http://nbviewer.jupyter.org/github/invisibleroads/crosscompute-tutorials/blob/master/computational-analysis/300%20Count%20graffiti%20sightings%20within%20100%20feet%20of%20a%20subway%20entrance.ipynb) 
-[A collection of notebooks that were published as a textbook](https://github.com/tiagoantao/bioinf-python/blob/master/notebooks/Welcome.ipynb) 
+- [One with a table of contents, chemical equations, and a an embedded video](http://nbviewer.jupyter.org/github/jckantor/CBE20255/blob/master/notebooks/Psychrometrics.ipynb)
+- [One with multipanel figures that are nicely refered to with Figure 1A, 1B, etc like you see in a printed publication](https://anaconda.org/jbednar/plotting_pitfalls/notebook)
+- [One about graffti in subway stations that that has no images of graffitti in a subway station](http://nbviewer.jupyter.org/github/invisibleroads/crosscompute-tutorials/blob/master/computational-analysis/300%20Count%20graffiti%20sightings%20within%20100%20feet%20of%20a%20subway%20entrance.ipynb) 
+- [A collection of notebooks that were published as a textbook](https://github.com/tiagoantao/bioinf-python/blob/master/notebooks/Welcome.ipynb) 
 
 ### Exercise
 Evaluate and rank the breadth and quality of documentation in two notebooks. What is one good thing and one bad thing about each. Add your comments to the etherpad.
