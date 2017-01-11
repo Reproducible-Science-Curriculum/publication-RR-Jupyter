@@ -45,7 +45,11 @@ Here is a piece of a notebook. Modify the existing markdown documentation to imp
 ## README file
 It is important to **write a brief overview of your project**. A README file is short file in the project's home directory that explains the purpose of the project. This file should contain the project's title, a brief description, up-to-date contact information, and possibly an example or two of how to run various cleaning or analysis tasks. It is often the first thing users of your project will look at, so make it explicit that you welcome contributors and point them to ways they can help.
 
--FIXME. Add exercise.
+
+ ### Exercise 3
+ Compare and contrast two README files. 
+
+-FIXME. Elaborate upon this exercise by providing links to notebooks with good, better, best README files.
 
 ## Metadata
 A key step in the reproducible research is to link the relevant metadata, or the data that describes the data. Metadata provides the context for in interpreting the data and results and is crucial for reusability and discovery.  Metadata should be clearly defined and tightly integrated with data and project ([Hart et al. 2016](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005097#sec008)). 
