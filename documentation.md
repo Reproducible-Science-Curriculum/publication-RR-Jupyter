@@ -30,12 +30,12 @@ Here are some cool features that have been added to notebooks:
 Evaluate and rank the breadth and quality of documentation in two notebooks. What is one good thing and one bad thing about each. Add your comments to the etherpad.
 
 ## Documentation for different target audiences
--*For yourself*: You are your most important collaborator. Past self doesn’t answer email. Treat it like a notebook and detailing what you’ve done, why you did it, what worked and what didn’t work. A cool feature for the notebook is that you can view the order in which you have executed consecutive cells (e.g. In [38]: is followed by In [14]:) in the notebook as a record of your workflow. 
--*For your peers*: Before sharing your process with others, you will likely want to do some polishing. One step to polish is to restart and rerun all the cells so that the entire workflow is reproduced in order (e.g In [1]: is followed by In [2]:). Even though the input and output are adjacent to one another, you will want to add documentation with markdown formatting to add the rational for you workflow and the interpretation so that the reader understands the context.
+- *For yourself*: You are your most important collaborator. Past self doesn’t answer email. Treat it like a notebook and detailing what you’ve done, why you did it, what worked and what didn’t work. A cool feature for the notebook is that you can view the order in which you have executed consecutive cells (e.g. In [38]: is followed by In [14]:) in the notebook as a record of your workflow. 
+- *For your peers*: Before sharing your process with others, you will likely want to do some polishing. One step to polish is to restart and rerun all the cells so that the entire workflow is reproduced in order (e.g In [1]: is followed by In [2]:). Even though the input and output are adjacent to one another, you will want to add documentation with markdown formatting to add the rational for you workflow and the interpretation so that the reader understands the context.
 
--FIXME. add additional target audiences and or rationales/suggestions.
--FIXME. Add exercises.
--FIXME. Add discussion.
+- FIXME. add additional target audiences and or rationales/suggestions.
+- FIXME. Add exercises.
+- FIXME. Add discussion.
 
 ## README file
 It is important to **write a brief overview of your project**. A README file is short file in the project's home directory that explains the purpose of the project. This file should contain the project's title, a brief description, up-to-date contact information, and possibly an example or two of how to run various cleaning or analysis tasks. It is often the first thing users of your project will look at, so make it explicit that you welcome contributors and point them to ways they can help.
