@@ -26,8 +26,12 @@ Here are some cool features that have been added to notebooks:
 - [One about graffti in subway stations that that has no images of graffitti in a subway station](http://nbviewer.jupyter.org/github/invisibleroads/crosscompute-tutorials/blob/master/computational-analysis/300%20Count%20graffiti%20sightings%20within%20100%20feet%20of%20a%20subway%20entrance.ipynb) 
 - [A collection of notebooks that were published as a textbook](https://github.com/tiagoantao/bioinf-python/blob/master/notebooks/Welcome.ipynb) 
 
-### Exercise
+### Exercise 1
 Evaluate and rank the breadth and quality of documentation in two notebooks. What is one good thing and one bad thing about each. Add your comments to the etherpad.
+
+### Exercise 2
+Here is a piece of a notebook. Modify the existing markdown documentation to improve either the text itself or the formating. Past your modification in the etherpad.
+
 
 ## Documentation for different target audiences
 - *For yourself*: You are your most important collaborator. Past self doesn’t answer email. Treat it like a notebook and detailing what you’ve done, why you did it, what worked and what didn’t work. A cool feature for the notebook is that you can view the order in which you have executed consecutive cells (e.g. In [38]: is followed by In [14]:) in the notebook as a record of your workflow. 
