@@ -32,11 +32,14 @@ Evaluate and rank the breadth and quality of documentation in two notebooks. Wha
 ### Exercise 1b
 Here is a piece of a notebook. Modify the existing markdown documentation to improve either the text itself or the formating. Past your modification in the etherpad.
 
+### Optional Jupyter Notebook Demonstration
+It is possible that the instructors and or helpers for this lesson will want to provide a brief demonstration for how they use the jupyter notebook in their own research. 
+
+FIXME: This portion of the lesson will detail the best practices for doing that (i.e. time, providing the links, how to prepare, etc). 
 
 ## Documentation for different target audiences
 - *For yourself*: You are your most important collaborator. Past self doesn’t answer email. Treat it like a notebook and detailing what you’ve done, why you did it, what worked and what didn’t work. A cool feature for the notebook is that you can view the order in which you have executed consecutive cells (e.g. In [38]: is followed by In [14]:) in the notebook as a record of your workflow. 
 - *For your peers*: Before sharing your process with others, you will likely want to do some polishing. One step to polish is to restart and rerun all the cells so that the entire workflow is reproduced in order (e.g In [1]: is followed by In [2]:). Even though the input and output are adjacent to one another, you will want to add documentation with markdown formatting to add the rational for you workflow and the interpretation so that the reader understands the context.
-
 - FIXME. add additional target audiences and or rationales/suggestions.
 
 ### Exercise 2
