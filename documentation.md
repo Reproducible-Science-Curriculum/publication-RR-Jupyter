@@ -51,12 +51,12 @@ It is important to **write a brief overview of your project**. A README file is 
 
 Some things to include in the README file are:
 
--the project's title
--a brief description
--a purpose statement
--up-to-date contact information
--a brief tutorial or how-to
--any relevant weblinks 
+- the project's title
+- a brief description
+- a purpose statement
+- up-to-date contact information
+- a brief tutorial or how-to
+- any relevant weblinks 
 
 ### Exercise 3
  Compare and contrast two README files. 
