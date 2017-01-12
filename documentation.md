@@ -62,3 +62,14 @@ Some things to include in the README file are:
  Compare and contrast two README files. 
 
 -FIXME. Elaborate upon this exercise by providing links to notebooks with good, better, best README files.
+
+## Wrap-up
+
+At this point in the workshop, you have now learned a lot about using the Jupyter Notebook and how to document your process. Documentation of your process is very important for communicating your work to others but also as a tool for communicating with yourself. 
+
+### Exercise 4
+
+1. Take a moment to reflect on what you what learned in this workshop and what changes you want to make in your scienctific process. 
+2. In your Jupyter notebook, write down what was the most useful thing that you learned.
+3. In your Jupyter notebook, write one change you will make to your current workflow to make it more reproducible.
+4. Set an alert to check in with yourself to see if you have implemented the change you wanted to make
