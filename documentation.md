@@ -46,7 +46,15 @@ FIXME: This portion of the lesson will detail the best practices for doing that 
 **Think Pair Share.** Should you leave commented-out code in your workflow when you publish it. It is useful to you while you’re working, but is it useful to someone who interested in your process. It not necessary to recreate your research?
 
 ### README file
-It is important to **write a brief overview of your project**. A README file is short file in the project's home directory that explains the purpose of the project. This file should contain the project's title, a brief description, up-to-date contact information, and possibly an example or two of how to run various cleaning or analysis tasks. It is often the first thing users of your project will look at, so make it explicit that you welcome contributors and point them to ways they can help.
+It is important to **write a brief overview of your project**. A README file is short file in the project's home directory that explains the purpose of the project. This file is the main entry point for readers of the code. It is often the first thing users of your project will look at, so make it explicit that you welcome contributors and point them to ways they can help. It should be raw text or written in some very easy to read markup, such as Markdown ([Reitz 2016](http://docs.python-guide.org/en/latest/writing/documentation/)). 
+
+Some things to include in the README file are:
+-the project's title
+-a brief description
+-a purpose statement
+-up-to-date contact information
+-a brief tutorial or how-to
+-any relevant weblinks 
 
 ### Exercise 3
  Compare and contrast two README files. 
