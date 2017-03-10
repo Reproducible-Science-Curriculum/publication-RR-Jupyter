@@ -51,7 +51,7 @@ Total: 2 hrs, 35 minutes
     - Links to Github, from README to paper and Zenodo archive, from paper to Github and Zenodo archive
     - Everything in open reusable formats
 
-See #1 and #20 for additional discussion. Note some of these could also be used for Record-Level Metadata below.
+See [#1](https://github.com/Reproducible-Science-Curriculum/publication-RR-Jupyter/issues/1) and [#20](https://github.com/Reproducible-Science-Curriculum/publication-RR-Jupyter/issues/20) for additional discussion. Note some of these could also be used for Record-Level Metadata below.
 
 ## 3. Record-level Metadata  
 
