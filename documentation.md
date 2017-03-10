@@ -74,9 +74,11 @@ Based on the above, items to include in a README file include the following:
 - how to cite and license and/or terms of reuse
 
 ### Exercise 3
-Compare and contrast two README files. 
+Compare and contrast different research product archives for the quality and value of their documentation, and their corresponding utility for reuse.
 
--FIXME. Elaborate upon this exercise by providing links to notebooks with good, better, best README files.
+* MS Salmanpour. (2016). Data set [Data set]. Zenodo. http://doi.org/10.5281/zenodo.193025
+* Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. http://doi.org/10.5281/zenodo.220887
+* Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. http://doi.org/10.5281/zenodo.56311
 
 ## Wrap-up
 
