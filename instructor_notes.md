@@ -37,6 +37,22 @@ Total: 2 hrs, 35 minutes
 
 ### Resources
 
+#### Exercise 3:
+* MS Salmanpour. (2016). Data set [Data set]. Zenodo. http://doi.org/10.5281/zenodo.193025
+    - Meaningless title, no description, no README
+    - no links to anything
+    - proprietary file format
+* Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. http://doi.org/10.5281/zenodo.220887
+    - Title with useful information. No description, no README
+    - no links to anything
+    - open reusable data format
+* Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. http://doi.org/10.5281/zenodo.56311
+    - Informative title and short description. README file.
+    - Links to Github, from README to paper and Zenodo archive, from paper to Github and Zenodo archive
+    - Everything in open reusable formats
+
+See [#1](https://github.com/Reproducible-Science-Curriculum/publication-RR-Jupyter/issues/1) and [#20](https://github.com/Reproducible-Science-Curriculum/publication-RR-Jupyter/issues/20) for additional discussion. Note some of these could also be used for Record-Level Metadata below.
+
 ## 3. Record-level Metadata  
 
 ### Timeline
