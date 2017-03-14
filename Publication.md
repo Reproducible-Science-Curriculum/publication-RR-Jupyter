@@ -1,3 +1,19 @@
+---
+title: Identifiers and Licensing for Research
+teaching: 15
+exercises: 20
+objectives:
+- Define and describe the importance of unique identifiers for data, publication and software.
+- Identify appropriate resources for acquiring a unique identifier.
+- Identify research artifacts on your own CV that would benefit from a DOI.
+- Know how to locate the DOI for an existing publication.
+- Compare and contrast different levels of open access. (needs an issue)
+- Select appropriate journal or preprint service for their publication, data or software.
+- Select an appropriate license for their publication, data, and software.
+- Create an ORCiD.
+keypoints:
+- _TODO_
+---
 
 # Publication Concerns
 
