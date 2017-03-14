@@ -15,16 +15,9 @@ keypoints:
 - _TODO_
 ---
 
-# Publication Concerns
+# Identifiers and Licensing for Research Products
 
-* Define and describe the importance of unique identifiers for data, publication and software (e.g. DOI).
-* Identify appropriate resources and contacts at their institution for acquiring a unique identifier.
-* Identify research artifacts on your own CV that would benefit from a DOI.
-* Locate the DOI for an existing publication.
-* Compare and contrast different levels of open access. (needs an issue)
-* Select appropriate journal or preprint service for their publication, data or software.
-* Select an appropriate license for their publication, data, and software.
-* Create an ORCiD.
+In this lesson we will learn some of the merits of globally unique and resolvable identifiers for research products; briefly introduce and discuss licensing issues and considerations; and end with creating a research author/contributor identifier for oneself, and how it can be used.
 
 This lesson serves to introduce leaners to DOIs, other identifier systems, breifly introduce and discuss the complex needs of licensing, and ends with learners creating ORCiD profiles and exploring Impact Story.
 
