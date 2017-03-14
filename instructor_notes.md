@@ -82,3 +82,11 @@ vague keywords < descriptive title + descriptive keywords = best.
 ### Customization  
 
 ### Resources  
+
+#### Licensing
+
+* Choose a License - [No License](https://choosealicense.com/no-license/)
+* Guide to [Open Data Licensing](http://opendefinition.org/guide/data/)
+* [University of Illinois - Research Data Sharing and Licensing](http://www.library.illinois.edu/sc/services/data_management/sharing.html)
+* Ball A. How to License Research Data [Internet]. Edinburgh, UK: Digital Curation Centre; 2014. Available: http://www.dcc.ac.uk/resources/how-guides/license-research-data
+* Carroll MW. Sharing Research Data and Intellectual Property Law: A Primer. PLoS Biol. 2015;13: e1002235. [doi:10.1371/journal.pbio.1002235](http://doi.org/10.1371/journal.pbio.1002235)
