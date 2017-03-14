@@ -19,40 +19,53 @@ keypoints:
 
 In this lesson we will learn some of the merits of globally unique and resolvable identifiers for research products; briefly introduce and discuss licensing issues and considerations; and end with creating a research author/contributor identifier for oneself, and how it can be used.
 
-This lesson serves to introduce leaners to DOIs, other identifier systems, breifly introduce and discuss the complex needs of licensing, and ends with learners creating ORCiD profiles and exploring Impact Story.
+## Stable, globally unique, and resolvable identifiers for research products
 
-## Stable identifiers
+### Why archives for research products, and why use them
 
-### What is a DOI and the landscape of identifiers
+A not so uncommon story:  _You’re a graduate student reading a paper on which you want to base your analysis approach, and for you therefore need to verify and reproduce the analysis The paper gives the lab's website as the link for obtaining the code. However, it turns out the researcher has since left that university, and their new lab's website no longer has a link to that code. After several weeks of silence the author responds to your email saying they will try and find the code, but they're working on a different project now. That was a month ago._
 
-The story:  You’re a graduate student reading a paper and the authors have made the code for their analysis available on their labratory's website. You'd like to reuse and reference some of the code for your current project. The code for the analysis is linked in the footnotes, but the researcher has since left that university.  Their new lab's website no longer has a link to that code and no one is responding to your emails.  How do you access the code? You don't!  :-(
+**Lab websites aren't archives.** Doing archiving well is non-trivial, and likely isn't your line of research. Use an archive that specializes in doing well what you need it from an archive.
 
-There were a few ways that you could have been saved.
+There are many archives, for all imaginable purposes and domains.  In fact, there are so many that there is [re3data](http://www.re3data.org), a registry of repositories that allows browsing them by various attributes.
 
-1.  The researcher uploads their code to a repository, such as their institutional repository, Zenodo, FigShare, or even GitHub\*  
-2.  The researcher could have linked thier GitHub repository to a Zenodo or FigShare archive, and provided the corresponding DOI within the paper.  Even if they later take down their GitHub repository, the DOI should still resolve to that archival entry within the repository.  Additionally, the repository could update the redirect from the DOI to wherever the archived files moved to.
+#### Exercise 1:
 
-In either condition, the DOI will remain stable within the manuscript and the paper would not need to be updated even if the content the DOI redirects to moves.  Should the underlying content move, the DOI resolver can be updated with that new location.
+* Identify requirements and desirable features for an archive for a non-manuscript research product of your choice.
+* Discuss how archiving the research product as supplementary material of the manuscript would or not meet these requirements (or desiderata).
 
-Note that GitHub repositories can still be moved and deleted, but in some contexts still more stable than just a personal website.
+### Why globally unique resolvable identifiers for non-paper research products?
 
-DOIs (digital object identifiers) are just one type of unique identifier, you may see other kinds across the publication landscape.  Additionally, there are two types of DOIs:  CrossRef and DataCite.  Each of these DOIs should resolve under the normal process, the difference is mainly just in who is issuing them out.  CrossRef DOIs are generally the kind that is created for papers and publications from journals while DataCite DOIs are created for repository resources, such as data and code.  This should not directly impact your selection of repositories.  Other common unique identifiers are [Handles](https://en.wikipedia.org/wiki/Handle_System), which you will see commonly throughout institutional repositories in academic institutions.
+One of the key benefits of using an archive is that nearly all of them will assign a globally unique resolvable identifier to deposits. This is because deposit identifiers benefit their users - both depositors, and those reusing deposits:
 
-### Exercise 1: Find the DOI for a published article, dataset, and code
+* Ability to identify and cite the deposit in a manuscript and a CV
+* Ability to track views, downloads, or more generally impact
+* Ability to identify exactly what record, and which version of it was (re)used
 
-Pick out a paper, either one that you know very well, one of your own, or just travel to a journal website of your choice and pick out a recent paper they are highlighting.  Identify the DOI for that paper.
+### Why DOIs
 
-### What does having a DOI mean?
+DOIs (digital object identifiers) are only one type of unique identifier, but is the most frequently used type in scholarly communication, and for identifying research products. Some of its benefits include:
 
-Most researchers are used to seeing DOIs in the context of papers and publications within journals.  However they are used, DOI and other similar identifiers are meant solely to be unique and stable identifiers for resources.  This means they can be assigned to smaller portions of papers, such as figures, or even for individual proteins or crystal structures within repositories.
+* Allows separating content from who hosts the content.
+* Cannot be minted ad-hoc, and instead require interacting with a registration agency, which typically need to be paid a fee. This fosters metadata quality, and assigns clear responsibility for maintaining the DOI's continued resolution.
+* Publishers, and the publishing industry, knows how to deal with them.
+* Practically every scholar knows how to deal with them.
 
-The implication of having a DOI is solely of stability and not necessarily of quality.  That said, individual repositories may have specific requirements about when and how they issue DOIs for resources.  The DOI service is just a system that they utilize to create identifiers.
+While DOIs on the surface all look the same, some expectations for their associated metadata (and [programmable APIs](http://citation.crosscite.org/docs.html) differ based on the issuing DOI registrar (often referred to as "type of DOI"). In scholarly publishing and communication, the most frequently encountered DOI registrars are CrossRef (issues almost all scientific paper DOIs, works with publishers) and DataCite. The latter is used for all kinds of "other" research products, including data, software, source code, and preprints.
 
-### Exercise 2:  Identify 2 of your works that might benefit from DOIs
+### Exercise 2:
 
+Identify the research products that underly and support a manuscript of yours in preparation (or one recently published if those research products became supplementary materials or were not published). Consider and discuss the following choices of repositories for fit for purpose:
 
+* [Dryad](http://datadryad.org)
+* [Zenodo](http://zenodo.org)
+* [Harvard Dataverse](https://dataverse.harvard.edu) (or UNC's [Odum Dataverse](https://dataverse.unc.edu))
+* [Figshare](http://figshare.com)
+* [Journal of Open Source Software](http://joss.theoj.org)
+* Your university's Institutional Repository (IR)
+* A public source code repository ([Github](http://github.com), [Bitbucket](http://bitbucket.com), [Gitlab](http://gitlab.com) etc)
 
-## Open Access levels
+Explain your preferences, and what advantage it would (or would not) offer over supplementary materials. Discuss which of the products you identified should get their own identifier, and whether having a DOI for them would be advantageous or not.
 
 TBD...
 
