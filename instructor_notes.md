@@ -102,3 +102,6 @@ Nonetheless, some data, especially data that is aggregated from many different p
 * [University of Illinois - Research Data Sharing and Licensing](http://www.library.illinois.edu/sc/services/data_management/sharing.html)
 * Ball A. How to License Research Data [Internet]. Edinburgh, UK: Digital Curation Centre; 2014. Available: http://www.dcc.ac.uk/resources/how-guides/license-research-data
 * Carroll MW. Sharing Research Data and Intellectual Property Law: A Primer. PLoS Biol. 2015;13: e1002235. [doi:10.1371/journal.pbio.1002235](http://doi.org/10.1371/journal.pbio.1002235)
+
+Open Database licensing examples:
+* [OpenStreetMap license](http://www.openstreetmap.org/copyright), which uses the [Open Data Commons Open Database License])https://opendatacommons.org/licenses/odbl/summary/)
