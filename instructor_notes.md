@@ -77,11 +77,11 @@ vague keywords < descriptive title + descriptive keywords = best.
 
 ## 4. Publishing your Work  
 
-### Timeline  
+### Timeline
 
-### Customization  
+### Customization
 
-### Resources 
+### Resources
 
 #### What does having a DOI mean?
 
