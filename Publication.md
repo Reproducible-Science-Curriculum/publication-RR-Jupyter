@@ -133,14 +133,14 @@ Bourne PE, Fink JL (2008) I Am Not a Scientist, I Am a Number. PLoS Comput Biol 
 
 Aggregating research products and their uptake in the scientific community as well as the public is very difficult without identifiers. Most authors of and contributors to research do not have distinctive names. If it's too difficult to aggregate someone's reseach outputs and their impact, then most research output will not be taken into account for assessment.
 
-Enter the [ORCID](https://orcid.org), the Open Researcher and Contributor ID. ORCID meanwhile allows you to create and maintain a fairly comprehensive biographic, grant support, and publication profile. Funders, institutions, and publishers are increasingly adopting it. (At least in the sense of allowing you to record your ORCID; using it for features that convey tangible benefits to you are still in its infancy.)
+Enter [ORCID](https://orcid.org), the Open Researcher and Contributor ID. ORCID allows you to create and maintain a fairly comprehensive biographic, grant support, and publication profile. Funders, institutions, and publishers are increasingly adopting it. (At least in the sense of allowing you to record your ORCID; using it for features that convey tangible benefits to you are still in its infancy.)
 
 ### Exercise 5:
 
-* You already have an ORCID. Look yourself up on <https://ORCID.org>. If there is a record for yourself claim it if you haven't already.
-* If there isn't a record, consider creating one. Try populating it with your research products (called _works_) using one of the available search-match-and-import sources. _(EuropePMC often works pretty well. Crossref can show a lot of false positive matches. Try them out - you can abort if most matches are incorrect.)_
+* You may already have an ORCID. Look yourself up on <https://ORCID.org>. If there is a record for yourself claim it if you haven't already.
+* If there isn't a record, consider creating one. Try populating it with your research products (called _works_) using one of the available search-match-and-import sources. _(EuropePMC often works pretty well. Crossref does, too, but can sometimes show a lot of false positive matches. Try them out - you can abort if most matches are incorrect.)_
 * Can you register your ORCID with your institution? Try inquiring with the digital scholarship group of your library.
 
 ### Aggregating your impact to tell your scholarship story
 
-There are scholarly communication services that use author identifiers (such as ORCID) to aggregate the impact of the corresponding scholar's products. For example, [ImpactStory](http://impactstory.org) aggregates traditional citations as well as several other forms of uptake that can measure different kinds of impact than scientific citations ([Priem _et al_, 2012J(http://arxiv.org/abs/1203.4745)).
+There are scholarly communication services that use author identifiers (such as ORCID) to aggregate the impact of the corresponding scholar's products. For example, [ImpactStory](http://impactstory.org) aggregates traditional citations as well as several other forms of uptake, including tweets and Wikipedia citations, that can measure different kinds of impact than scientific citations ([Priem _et al_, 2012J(http://arxiv.org/abs/1203.4745)).
