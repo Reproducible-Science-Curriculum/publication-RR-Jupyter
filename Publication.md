@@ -93,7 +93,7 @@ Some jurisdictions (though not the US, but for example the EU) also recognize pr
 
 When you publish your data, consider the following.
 1. Understand the origins of the data and evaluate whether the dataset may be made publicly available.
-    * Does it contain sensitive information (such as ePHI) that cannot be released to the public? Can you separate sensitive from non-sensitite and only public the latter? Is there a summarized form that can be published and that would still allow reproducing the results of the papper?
+* Does it contain sensitive information (such as electronic [Protected Health Informtion](https://en.wikipedia.org/wiki/Protected_health_information) (ePHI)) that cannot be released to the public? Can you separate sensitive from non-sensitite and only public the latter? Is there a summarized form that can be published and that would still allow reproducing the results of the papper?
     * Were some of the data obtained under a Data Use Agreement, and which permissions does the DUA afford for publication.
     * Does someone other than you own copyright in some of the data?
 2. Aim to improve legal clarity rather than murkying it.

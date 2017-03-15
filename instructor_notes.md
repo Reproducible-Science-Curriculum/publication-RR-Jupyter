@@ -83,6 +83,10 @@ vague keywords < descriptive title + descriptive keywords = best.
 
 ### Resources  
 
+#### Sensitive data
+
+* [HIPAA](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act) is relevant legislation, but specific to the US. If you are elsewhere, there will likely be similarly pertinent legislation  to protect the privacy if personal identifiable information (sometimes abbreviated PII). _(Consider contributing relevant links as pull requests.)_
+
 #### Licensing
 
 * Choose a License - [No License](https://choosealicense.com/no-license/)
