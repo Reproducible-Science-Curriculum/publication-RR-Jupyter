@@ -29,7 +29,7 @@ A not so uncommon story:  _You’re a graduate student reading a paper on which 
 
 There are many archives, for all imaginable purposes and domains.  In fact, there are so many that there is [re3data](http://www.re3data.org), a registry of repositories that allows browsing them by various attributes.
 
-#### Exercise 1:
+### Exercise 1:
 
 * Identify requirements and desirable features for an archive for a non-manuscript research product of your choice.
 * Discuss how archiving the research product as supplementary material of the manuscript would or not meet these requirements (or desiderata).
@@ -81,7 +81,7 @@ By publishing a research product, as a scholar one usually intends to benefit fr
 
 ### What is an open license
 
-Exercise 3:
+###Exercise 3:
 * Enumerate provisions (rights) that you think you can expect to be granted for a "openly licensed work".
 
 The argument is sometimes made that it is not well defined what constitutes an Open License. This is, however, not true: the [Open Definition](http://opendefinition.org/od/2.1/en/) lays out very clearly the basic rights that any Open License needs to grant. Particularly noteworthy for scientists, _the definition does not allow to discriminate between academic and commercial reuse._
