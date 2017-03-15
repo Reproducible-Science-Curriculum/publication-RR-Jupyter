@@ -87,6 +87,14 @@ vague keywords < descriptive title + descriptive keywords = best.
 
 * [HIPAA](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act) is relevant legislation, but specific to the US. If you are elsewhere, there will likely be similarly pertinent legislation  to protect the privacy if personal identifiable information (sometimes abbreviated PII). _(Consider contributing relevant links as pull requests.)_
 
+#### Data Use Agreements (DUA)
+
+Data Use Agreements are often tempting to consider, but are in most cases not a good idea. That's because they are very difficult to enforce (which requires to show that an alleged perpetrator agreed to the DUA in the first place - persons who get the data without having agreed to the DUA are not bound by it in any way). For this reason, they are not discussed in the lesson in more detail -- after all, this is about reproducible science as one of the benefits enabled by open science.
+
+Nonetheless, some data, especially data that is aggregated from many different providers in different jurisdictions and with divergent institutional policies, simply wouldn't be available without DUAs. Examples/resources if you want to discuss that include the following:
+* [DUA of the Global Biodiversity Information Facility](http://www.gbif.org/terms/data-user)
+* [DUA of the database of Genotypes and Phenotypes (dbGaP)](https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?view_pdf&stacc=phs000016.v2.p2)
+
 #### Licensing
 
 * Choose a License - [No License](https://choosealicense.com/no-license/)
