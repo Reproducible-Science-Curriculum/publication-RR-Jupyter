@@ -73,7 +73,7 @@ Here we provide a short demo of downloading these formats
 
 ## Callout on PDF Export
 
-We are going to demonstrate the PDF export ability of the notebook.  To do this on your Jupyter installation will require the installation of the Pandoc and LaTeX libraries.
+We are going to demonstrate the PDF export ability of the notebook.  To do this on your Jupyter installation will require the installation of the Pandoc and LaTeX libraries. You can also use [tmpnb](https://github.com/jupyter/tmpnb), either by runnit it yourself, or by using a hosted version (e.g., <try.jupyter.org> or <tmpnb.org>).
 
 ## Callout on command-line NBConvert
 
