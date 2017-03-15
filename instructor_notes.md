@@ -74,6 +74,7 @@ vague keywords < descriptive title + descriptive keywords = best.
 - When running low on time, prioritize the ranking exercise and the related discussion and skip the keywords exercise.
 
 ### Resources
+* Porcia Vaughn, Librarian at UT Austin, gives a good analogy for thinking about keywords, and a great thought exercise in [this science podcast](https://tbmws.podbean.com/e/monday-february-20th-2017-porcia-vaughn-talks-about-how-to-get-the-most-out-of-ut-biology-library-services/)
 
 ## 4. Publishing your Work  
 
