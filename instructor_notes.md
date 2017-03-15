@@ -82,6 +82,10 @@ vague keywords < descriptive title + descriptive keywords = best.
 
 ### Customization
 
+#### Author/contributor identifiers
+* Note that there may be learners who are uncomfortable with creating a new account, in general or specifically for ORCID.org. Be sure to mention that creating an account is optionsl.
+* Also, those who have an account already can help (or demonstrate to) those next to them.
+
 ### Resources
 
 #### What does having a DOI mean?
@@ -98,8 +102,6 @@ The implication of having a DOI is solely of stability and not necessarily of qu
 #### Exercise 2:
 * Note that GitHub repositories can still be moved and deleted. Nonetheless, it may in some contexts still be more stable than just a download from a personal or lab website.
 * Zenodo and FigShare allow linking a GitHub repository, which will then be archived in the form of a snapshot (correconding to a version). This provides a DOI one can put into the paper, and even if the GitHub repository is later taken down, the DOI should still resolve to that archival entry within the repository. (In theory, the repository could also update the redirect from the DOI to wherever the archived files moved to. In practice, few if any repositories do this.)
-
-### Resources  
 
 #### Sensitive data
 

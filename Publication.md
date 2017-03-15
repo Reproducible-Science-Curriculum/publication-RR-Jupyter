@@ -29,7 +29,7 @@ A not so uncommon story:  _You’re a graduate student reading a paper on which 
 
 There are many archives, for all imaginable purposes and domains.  In fact, there are so many that there is [re3data](http://www.re3data.org), a registry of repositories that allows browsing them by various attributes.
 
-#### Exercise 1:
+### Exercise 1:
 
 * Identify requirements and desirable features for an archive for a non-manuscript research product of your choice.
 * Discuss how archiving the research product as supplementary material of the manuscript would or not meet these requirements (or desiderata).
@@ -81,7 +81,7 @@ By publishing a research product, as a scholar one usually intends to benefit fr
 
 ### What is an open license
 
-Exercise 3:
+###Exercise 3:
 * Enumerate provisions (rights) that you think you can expect to be granted for a "openly licensed work".
 
 The argument is sometimes made that it is not well defined what constitutes an Open License. This is, however, not true: the [Open Definition](http://opendefinition.org/od/2.1/en/) lays out very clearly the basic rights that any Open License needs to grant. Particularly noteworthy for scientists, _the definition does not allow to discriminate between academic and commercial reuse._
@@ -128,18 +128,19 @@ Determine and dicuss which licensing, public domain waiver, and/or terms for reu
 
 ## ORCiDs
 
-Let's make ORCiDs!
+> _"I Am Not a Scientist, I Am a Number"_
+Bourne PE, Fink JL (2008) I Am Not a Scientist, I Am a Number. PLoS Comput Biol 4(12): e1000247. [doi:10.1371/journal.pcbi.1000247](http://doi.org/10.1371/journal.pcbi.1000247)
 
-Think you have one?  Try looking yourself up.  Otherwise, create an account on ORCiD.
+Aggregating research products and their uptake in the scientific community as well as the public is very difficult without identifiers. Most authors of and contributors to research do not have distinctive names. If it's too difficult to aggregate someone's reseach outputs and their impact, then most research output will not be taken into account for assessment.
 
-[ORCiD.org](https://orcid.org/)
+Enter [ORCID](https://orcid.org), the Open Researcher and Contributor ID. ORCID allows you to create and maintain a fairly comprehensive biographic, grant support, and publication profile. Funders, institutions, and publishers are increasingly adopting it. (At least in the sense of allowing you to record your ORCID; using it for features that convey tangible benefits to you are still in its infancy.)
 
-Take some time to explore the options within your profile.  Under works, click Add Works.  You can search several databases from within or you can add works manually.
+### Exercise 5:
 
-Issue...add new info.
+* You may already have an ORCID. Look yourself up on <https://ORCID.org>. If there is a record for yourself claim it if you haven't already.
+* If there isn't a record, consider creating one. Try populating it with your research products (called _works_) using one of the available search-match-and-import sources. _(EuropePMC often works pretty well. Crossref does, too, but can sometimes show a lot of false positive matches. Try them out - you can abort if most matches are incorrect.)_
+* Can you register your ORCID with your institution? Try inquiring with the digital scholarship group of your library.
 
-Once everyone has their ORCiD created, all learners should navigate to [Impact Story](https://impactstory.org) and link their accounts.
+### Aggregating your impact to tell your scholarship story
 
-Learners who already have accounts can help those next to them get things set up.  Learners who object to creating accounts may choose to akip this activity.
-
-
+There are scholarly communication services that use author identifiers (such as ORCID) to aggregate the impact of the corresponding scholar's products. For example, [ImpactStory](http://impactstory.org) aggregates traditional citations as well as several other forms of uptake, including tweets and Wikipedia citations, that can measure different kinds of impact than scientific citations ([Priem _et al_, 2012J(http://arxiv.org/abs/1203.4745)).
