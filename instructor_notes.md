@@ -98,3 +98,27 @@ The implication of having a DOI is solely of stability and not necessarily of qu
 * Note that GitHub repositories can still be moved and deleted. Nonetheless, it may in some contexts still be more stable than just a download from a personal or lab website.
 * Zenodo and FigShare allow linking a GitHub repository, which will then be archived in the form of a snapshot (correconding to a version). This provides a DOI one can put into the paper, and even if the GitHub repository is later taken down, the DOI should still resolve to that archival entry within the repository. (In theory, the repository could also update the redirect from the DOI to wherever the archived files moved to. In practice, few if any repositories do this.)
 
+### Resources  
+
+#### Sensitive data
+
+* [HIPAA](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act) is relevant legislation, but specific to the US. If you are elsewhere, there will likely be similarly pertinent legislation  to protect the privacy if personal identifiable information (sometimes abbreviated PII). _(Consider contributing relevant links as pull requests.)_
+
+#### Data Use Agreements (DUA)
+
+Data Use Agreements are often tempting to consider, but are in most cases not a good idea. That's because they are very difficult to enforce (which requires to show that an alleged perpetrator agreed to the DUA in the first place - persons who get the data without having agreed to the DUA are not bound by it in any way). For this reason, they are not discussed in the lesson in more detail -- after all, this is about reproducible science as one of the benefits enabled by open science.
+
+Nonetheless, some data, especially data that is aggregated from many different providers in different jurisdictions and with divergent institutional policies, simply wouldn't be available without DUAs. Examples/resources if you want to discuss that include the following:
+* [DUA of the Global Biodiversity Information Facility](http://www.gbif.org/terms/data-user)
+* [DUA of the database of Genotypes and Phenotypes (dbGaP)](https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?view_pdf&stacc=phs000016.v2.p2)
+
+#### Licensing
+
+* Choose a License - [No License](https://choosealicense.com/no-license/)
+* Guide to [Open Data Licensing](http://opendefinition.org/guide/data/)
+* [University of Illinois - Research Data Sharing and Licensing](http://www.library.illinois.edu/sc/services/data_management/sharing.html)
+* Ball A. How to License Research Data [Internet]. Edinburgh, UK: Digital Curation Centre; 2014. Available: http://www.dcc.ac.uk/resources/how-guides/license-research-data
+* Carroll MW. Sharing Research Data and Intellectual Property Law: A Primer. PLoS Biol. 2015;13: e1002235. [doi:10.1371/journal.pbio.1002235](http://doi.org/10.1371/journal.pbio.1002235)
+
+Open Database licensing examples:
+* [OpenStreetMap license](http://www.openstreetmap.org/copyright), which uses the [Open Data Commons Open Database License])https://opendatacommons.org/licenses/odbl/summary/)

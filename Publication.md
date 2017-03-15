@@ -67,64 +67,64 @@ Identify the research products that underly and support a manuscript of yours in
 
 Explain your preferences, and what advantage it would (or would not) offer over supplementary materials. Discuss which of the products you identified should get their own identifier, and whether having a DOI for them would be advantageous or not.
 
-TBD...
+## Licensing and Terms of Reuse
 
-### Exercise 2: Explore open access policies
+Upon publishing, different research products have different needs, and different eligibility for licensing. Determining an appropriate license should be an informed decision, and can be further complicated if multiple institutions with different intellectual property policies contributed to the products in a manner that can't be easily disentangled. Also, intellectual property and copyright laws differ across countries.
 
-1. Find one of the high impact journals in your field and look up their open access policies. Paste into the Etherpad the name of the journal and (. . . ). Discuss with a partner from a different discipline. What did you find?
-2. For that journal, open a recent article and locate the DOI. Does your journal have a DOI?
+### Why license in the first place?
 
+In many jurisdictions (including the US) intellectual property rights vest in the author of a creative work whether they assert it or not. Also, in most jurisdictions (including the US) the rights one has for work copyrighted by someone else is limited to fair use (and what one believes is fair use versus what a court will say is not necessarily the same thing).
 
+Hence, if you make public work eligible for copyright protection yet don't say anything about terms of reuse, nobody has any rights to it beyond fair use. If you reuse work published in this way yourself, you risk that at any point the author will claim their right and asks to be compensated unless you cease to use the work immediately. Do you really want to base your research success on such a risk? If not, why do you expect anyone else to?
 
+By publishing a research product, as a scholar one usually intends to benefit from that by allowing the product to have a wider impact. Not stating any licene or terms of reuse is effectively in contradiction to that.
 
-## Licensing concerns
+### What is an open license
 
-This isn't a workshop to teach you everything you need to know about licenses, but it is important to understand that published works, code, and data all have different needs related to licensing.  Selecting an appropriate license is a complex task that you'll likely want or need to connect with an expert to make an informed selection, particularly in complex situaions when you are navigating a collection of copyright agreements and IP rights.
+Exercise 3:
+* Enumerate provisions (rights) that you think you can expect to be granted for a "openly licensed work".
 
-Intellectual property and copyright concerns also differ greatly across countries and insitutions, so writing an explicit guide to cover all these situations is nearly impossible.  However, this section of the module will introduce you to some of the topics around licensing publications, code, and data.
+The argument is sometimes made that it is not well defined what constitutes an Open License. This is, however, not true: the [Open Definition](http://opendefinition.org/od/2.1/en/) lays out very clearly the basic rights that any Open License needs to grant. Particularly noteworthy for scientists, _the definition does not allow to discriminate between academic and commercial reuse._
 
-The selection of a license should involve:
+### Special case: Licensing for scientific open source software
 
-1. Looking toward your community to understand canonical standards for licensing.
-2. Selecting a license you understand (either beforehand or something you research).
+The number of open source licenses for software can seem bewildering. However, for most scientific software, the important parts can be boiled down to the following.
 
-### Licenses for publications
+1. [_Choose a license_](https://choosealicense.com/) and state it.
+2. Choose an [OSI-approved license](https://opensource.org/licenses) instead of using or creating a bespoke one.
 
-Very commonly, people will select licenses out of the Creative Commons family.  While these licenses are regularly applied to data and code, there are more specific liceness that may suit your needs better.
+The choice of license does have consequences, and these consequences may matter for some projects. For an accessible guide written by a scientist for scientists see the following paper:
+> Morin A, Urban J, Sliz P. A Quick Guide to Software Licensing for the Scientist-Programmer. Lewitter F, editor. PLoS Comput Biol. 2012;8: e1002598. [doi:10.1371/journal.pcbi.1002598](http://doi.org/10.1371/journal.pcbi.1002598)
 
-Creative Commons licenses are well documented in human-oriented text: https://creativecommons.org/choose/
+### Special case: Licensing for scientific data
 
-#### Licenses for data
+In most jurisdictions (including the US), most data are considered facts of nature and are as such not eligible for copyright protection. This is so [even if it took enormous effort](https://en.wikipedia.org/wiki/Sweat_of_the_brow) or financial investment to obtain or measure the data. A license asserts copyright, and hence applying one to data that isn't eligible for such protection creates a murky legal situation at best.
 
-Conversations about licenses for data, within the context of making the data publicly available, should actually start with understanding the origins of the data and first evaluating to see if the dataset may be made publicly available.  You need to determine if the data you are releasing is subject to copyright, contractual, or legal sensitivities. You acquired your data somehow, and that method or the content may have restrictions in place on the redistribution of it. Just because you can access the data source without paying money or logging into a website doesn’t mean that it is public data and you are freely available to harvest and distribute it.
+In practice, research data can take many forms. Simple measurements of natural phenomenons or observations of facts are almost certainly not copyright eligible. For example, the observation that a bird of a rare species was observed at certain date and time in a certain location is likely not eligible for copyright. However, the photo that documents the observation may well be. More generally, information that can be viewed as a creative expression but is used as data could be copyright eligible.
 
-Some starter questions to ask include:
+Some jurisdictions (though not the US, but for example the EU) also recognize property protection for _databases_ ([_Sui generis_ database right](https://en.wikipedia.org/wiki/Sui_generis_database_right)). Databases whose individual records constitute simple facts of nature often assert this right without further elaboration, even though a _sui generis_ protection normally won't extend to individual database records.
 
-1. Did you have permission to gather the data and/or are you abiding by any applicable Terms of Service by gathering, using, or publishing that data?
-2. Are you including data values where entities, such as publishers or users, hold copyright?
-3. Was your access to the original data you’ve processed under a contract that restricts or has stipulations about how derivatives are released?
-4. Does your home institution have policies on how data products and other intellectual property content is released and licensed?
-5. These scenarios will impact your ability make the data public and which kind of license you can attach to it, which is why I always suggest working through this process in the hypothetical when you begin a project. Data copyright and IP control are thorny issues that, like other copyright domains, vary by country, institution, and year of creation.
+When you publish your data, consider the following.
+1. Understand the origins of the data and evaluate whether the dataset may be made publicly available.
+* Does it contain sensitive information (such as electronic [Protected Health Informtion](https://en.wikipedia.org/wiki/Protected_health_information) (ePHI)) that cannot be released to the public? Can you separate sensitive from non-sensitite and only public the latter? Is there a summarized form that can be published and that would still allow reproducing the results of the papper?
+    * Were some of the data obtained under a Data Use Agreement, and which permissions does the DUA afford for publication.
+    * Does someone other than you own copyright in some of the data?
+2. Aim to improve legal clarity rather than murkying it.
+    * Don't assert or withhold rights when the legal basis for that is lacking or shaky. Licenses assert (intellectual or _sui generis_) property protection. Hence the enforceability of any rights you withhold for reuse rests on whether the data you are claiming rights for are indeed eligible for such protection.
+    * Don't license data that's already in the public domain.
+3. If you generated the data, consider _waiving your rights_ (to the extent that a jurisdiction gives you any) by applying the [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) public domain waiver. (["No Rights Reserved"](https://creativecommons.org/share-your-work/public-domain/cc0/))
+    * This is also a great way to improve legal clarity.
+    * Some repositories may require you to do this, for example [Dryad](https://datadryad.org/pages/faq#info-cc0).
+4. For expectations from those reusing the data, state those clearly.
+    * There are many ways to meet legal requirements imposed by licenses (such as attribution) but that don't meet disciplinary norms or your expectations.
+    * State how you want the dataset to be cited. Waiving one's legal rights does not mean that disciplinary norms and expectations don't apply.
+    * Some data repositories will do this for you (for example Dryad).
 
-(Some content borrowed from a Data Carpentry [blog post](http://www.datacarpentry.org/blog/data-licensing/))
+The terms through which data is acquired may have implications for publishing, and it's therefore worth thinking through those from the get go.
 
-### Licenses for software
+### Exercise 4:
 
-
-### Exercise n:  Break out into three groups
-
-Group 1: investigate the [creative commons wizard](https://creativecommons.org/choose/)
-Group 2: investigate the [ODbL guide](http://opendatacommons.org/guide/)
-Group 3: work through the [OSS license selector](http://oss-watch.ac.uk/apps/licdiff/)
-
-Take 5 minutes to review this information and place your findings into the etherpad.  When dont place your green stickies up.
-
-The instructor will review the report outs and lead discussion.
-
-1. What were your general impressions?
-2. What was the biggest concern with your license domain?
-3. What did you find helpful?
-4. What did you find confusing?
+Determine and dicuss which licensing, public domain waiver, and/or terms for reuse would be suitable for the research products of yours that you previously identified.
 
 ## ORCiDs
 
