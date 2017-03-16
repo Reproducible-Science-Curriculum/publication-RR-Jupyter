@@ -17,6 +17,12 @@ The native Jupyter Notebook format is not (yet?) among those accepted by scholar
 
 In this lesson, we will look at several formats relevant to scholarly publishing and publishing to the web, and we will learn how to export a notebook to such formats.
 
+## Learning objectives
+
+- Recognize and identify the various publishing related data formats.
+- Use NBConvert to export your notebooks in a variety of formats, including HTML, PDF, LaTeX, and Markdown.
+- Select an appropriate output format for your publication and justify your choice.
+
 # Output formats
 
 Scholarly publishers typically accept one or several Word-processing oriented formats, which are often binary or at least not meant for human consumption. For sharing or publishing data and analysis documentation, a text format that is easy to read and doesn't require special-purpose software is usually best. How do you determine the best format(s) to export your Notebook to?

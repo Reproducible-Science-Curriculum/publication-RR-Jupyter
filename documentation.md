@@ -21,6 +21,11 @@ Documenting your process, especially as it concerns your data, is a key element 
 
 In this lesson, we will discuss the types and styles for documentation, their utility, and how you might tailor them for different audiences.
 
+## Learning objectives
+
+- Describe how documentation is useful to yourself and to others
+- Evaluate and rank the quality of comments in published notebooks 
+
 ## A Gallery of Awesome Jupyter Notebooks
 Wondering how others have been using the Notebook? Luckily, the IPython community curates a [_Gallery of IPython Notebooks_](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) that have been used for scientific research and educational tutorials. Browse the topics that pique your curiosity. 
 

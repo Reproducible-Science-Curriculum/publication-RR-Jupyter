@@ -19,6 +19,17 @@ keypoints:
 
 In this lesson we will learn some of the merits of globally unique and resolvable identifiers for research products; briefly introduce and discuss licensing issues and considerations; and end with creating a research author/contributor identifier for oneself, and how it can be used.
 
+## Learning objectives
+
+- Define and describe the importance of unique identifiers for data, publication and software.
+- Identify appropriate resources for acquiring a unique identifier.
+- Identify research artifacts on your own CV that would benefit from a DOI.
+- Know how to locate the DOI for an existing publication.
+- Compare and contrast different levels of open access. (needs an issue)
+- Select appropriate journal or preprint service for their publication, data or software.
+- Select an appropriate license for their publication, data, and software.
+- Create an ORCiD.
+
 ## Stable, globally unique, and resolvable identifiers for research products
 
 ### Why archives for research products, and why use them

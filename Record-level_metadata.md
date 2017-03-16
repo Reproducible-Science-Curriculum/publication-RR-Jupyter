@@ -12,6 +12,12 @@ keypoints:
 
 # Creating Record Level Metadata
 
+## Learning objectives:
+
+- Evaluate and rank the quality of existing metadata records.
+- Describe the types of and importance of record level metadata. 
+- Compose an appropriate set of descriptive keywords for a given text.
+
 ## Metadata quality: Good - Better - Best
 
 ### Exercise 1 - rank these Zenodo entries in terms metadata quality (7 minutes)
