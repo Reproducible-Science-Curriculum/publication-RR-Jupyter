@@ -1,6 +1,10 @@
 # Instructor notes
 
 ## Motivation
+* Publishing is on a continuum with sharing. Often, early on in a research project you will share with your advisor and/or collaborators. Later perhaps you share with more collaborators, or with colleagues whose opinions you value. Publishing in essence is sharing with the scientific community at large, and with the public.
+* Many assumptions you can make about shared context and meta-information when sharing with close collaborators or an advisor won't apply anymore when sharing with the scientific community at large.
+* Some of the same principle goals, however, will still apply. (Why share your research if you don't want anyone to understand and build on what you did?)
+* Those goals should include reaping benefits for yourself. Which means putting your work in the best position to be found, and to be understood -- this holds for all research products, not only for the final manuscript.
 
 ## Narrative
 
