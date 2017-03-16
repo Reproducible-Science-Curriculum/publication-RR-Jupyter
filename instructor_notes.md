@@ -27,7 +27,8 @@ Total: 2 hrs, 35 minutes
         conda install -c conda-forge pandoc=1.19.2
 
 - If installation of TeXLive and Pandoc risk going beyond the scope of the workshop, consider using or hosting an instance of [tmpnb](https://github.com/jupyter/tmpnb), "the temporary notebook service".
-    * The institution hosting the workshop may already run such a service. It's worth enquiring with the campus IT group.
+    * To set this up, essentially all that's needed is Docker. This may be too much to ask of students (as it throws in another technology), but the institution hosting the workshop may already run a service for recruiting Linux VMs on the fly. The necessary machine need not have much resources - a 2GB/1CPU VM should completely suffice for our purposes, and we only need one such machine for the whole class.
+    * The default [Jupyter Notebook container used by tmpnb](https://github.com/jupyter/docker-stacks/tree/master/minimal-notebook) currently includes some but not enough of TeX needed by nbconvert. It also doesn't include `numpy` and other frequently used packages for scientific computing. See [here](https://github.com/Duke-GCB/jupyter-scipy-tmpnb-server) for how to create a custom container that includes all of that, and how to then supply that custom container to tmpnb as the one to spin up for every user.
 
 - Time permitting, and depending on students' experience level with installing Python packages you may not currently have installed, you can also try "real" notebooks from publications or books, such as some of the following:
     * [Notebooks from 'Python for Bioinformatics'](https://github.com/tiagoantao/bioinf-python/blob/master/notebooks/Welcome.ipynb). In particular, those under the section _Simulation in Population Genetics_ don't need to download datasets as the first step.
