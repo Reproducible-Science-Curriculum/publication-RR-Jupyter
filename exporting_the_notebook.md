@@ -19,35 +19,30 @@ In this lesson, we will look at several formats relevant to scholarly publishing
 
 # Output formats
 
-There are several outlets for our research and each of them often have specific requirements for the formats they can use.
-Also, traditionally, publications have been distributed in print journals on a letter-size page, as more journals publish online, electronic formats are becoming popular.
-How do you determine the best publication formats to output your publications in?
-Is it possible to create multiple outputs for your work for multiple publication venues?
+Scholarly publishers typically accept one or several Word-processing oriented formats, which are often binary or at least not meant for human consumption. For sharing or publishing data and analysis documentation, a text format that is easy to read and doesn't require special-purpose software is usually best. How do you determine the best format(s) to export your Notebook to?
 
-Below, we briefly describe a few formats that are widely used for publication.
+Below we briefly describe a few formats that are widely used in scholarly communication.
 
 ## PDF
 
-The PDF format is primarily used for paper-based output.  It contains information about the paper size and the margins.  It can be displayed on a webpage but it is somewhat like posting an image.
+The PDF format is primarily used for paper-based output.  It contains information about the paper size and the margins.  Most web browsers know how to display it, but posting it to the web is somewhat like posting an raster-graphics image - it is not meant to be built upon or modified.
 
-You would use the PDF format if you were interested in printing a copy of your notebook for hand-written comments or for sending to co-authors for reading and commenting in tools like Adobe Acrobat.
+You would use the PDF format if you were interested in printing a copy of your notebook (for filing a paper copy, or hand-writing comments), or for sending to co-authors for reading and commenting (which will likely require tools such as Adobe Acrobat).
 
 ## HTML
 
-The HTML format is the native format for the internet.  It does not contain information about printing on paper usually.  Exporting to this format is a popular means of posting content to the web.
+HTML is the native format for the web.  It does not usually contain information about printing on paper.  Exporting to this format is a popular means of posting content to the web so that browsers can render it in the best way suitable for the device they are running on. (HTML is also a format rich in metadata and context information for search engines.)
 
 If you have a website that you manage, publishing to HTML can make it easy to add your notebook as a page to a website.
 
 ## Markdown
 
-Markdown is a plain-text format that was designed to be easily exported to HTML.  It has the advantage over HTML as having fewer characters used for markup which makes it more human-readable.
+Markdown is a plain-text format that was designed to both be human-readable without any special-purpose rendering tools, and to be easily exported to HTML.
 
 ## LaTeX
 
-LaTeX is a plain-text format that is often compiled into a PDF format using the LaTeX software.  It was originally created for mathematical typesetting and is widely used for publication.
+LaTeX is a plain-text format designed for authoring documents that will subsequently be typeset. It is widely used in publishing, and often accepted as a manuscript submission format, especially in fields that routinely need extensive mathematical typesetting capabilities. For publishing, sharing, and reading LaTeX is often compiled into a PDF format.  Depending on your field, your co-authors may be more comfortable editing LaTeX files than Notebook files.
 
-Some of your co-authors may be more comfortable editing LaTeX files than notebook files.
-It is also often used as a submission format for journals.
 
 ## Reveal.js
 
