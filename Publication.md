@@ -36,7 +36,7 @@ In this lesson we will learn some of the merits of globally unique and resolvabl
 
 A not so uncommon story:  _You’re a graduate student reading a paper on which you want to base your analysis approach, and for you therefore need to verify and reproduce the analysis The paper gives the lab's website as the link for obtaining the code. However, it turns out the researcher has since left that university, and their new lab's website no longer has a link to that code. After several weeks of silence the author responds to your email saying they will try and find the code, but they're working on a different project now. That was a month ago._
 
-**Lab websites aren't archives.** Doing archiving well is non-trivial, and likely isn't your line of research. Use an archive that specializes in doing well what you need it from an archive.
+**Lab websites aren't archives.** Doing archiving well is non-trivial, and likely isn't your line of research. Use an archive that specializes in doing well what you need from an archive.
 
 There are many archives, for all imaginable purposes and domains.  In fact, there are so many that there is [re3data](http://www.re3data.org), a registry of repositories that allows browsing them by various attributes.
 
@@ -92,7 +92,7 @@ By publishing a research product, as a scholar one usually intends to benefit fr
 
 ### What is an open license
 
-###Exercise 3:
+### Exercise 3:
 * Enumerate provisions (rights) that you think you can expect to be granted for a "openly licensed work".
 
 The argument is sometimes made that it is not well defined what constitutes an Open License. This is, however, not true: the [Open Definition](http://opendefinition.org/od/2.1/en/) lays out very clearly the basic rights that any Open License needs to grant. Particularly noteworthy for scientists, _the definition does not allow to discriminate between academic and commercial reuse._
@@ -117,7 +117,7 @@ Some jurisdictions (though not the US, but for example the EU) also recognize pr
 
 When you publish your data, consider the following.
 1. Understand the origins of the data and evaluate whether the dataset may be made publicly available.
-* Does it contain sensitive information (such as electronic [Protected Health Informtion](https://en.wikipedia.org/wiki/Protected_health_information) (ePHI)) that cannot be released to the public? Can you separate sensitive from non-sensitite and only public the latter? Is there a summarized form that can be published and that would still allow reproducing the results of the papper?
+    * Does it contain sensitive information (such as electronic [Protected Health Informtion](https://en.wikipedia.org/wiki/Protected_health_information) (ePHI)) that cannot be released to the public? Can you separate sensitive from non-sensitite and only public the latter? Is there a summarized form that can be published and that would still allow reproducing the results of the papper?
     * Were some of the data obtained under a Data Use Agreement, and which permissions does the DUA afford for publication.
     * Does someone other than you own copyright in some of the data?
 2. Aim to improve legal clarity rather than murkying it.
@@ -154,4 +154,4 @@ Enter [ORCID](https://orcid.org), the Open Researcher and Contributor ID. ORCID 
 
 ### Aggregating your impact to tell your scholarship story
 
-There are scholarly communication services that use author identifiers (such as ORCID) to aggregate the impact of the corresponding scholar's products. For example, [ImpactStory](http://impactstory.org) aggregates traditional citations as well as several other forms of uptake, including tweets and Wikipedia citations, that can measure different kinds of impact than scientific citations ([Priem _et al_, 2012J(http://arxiv.org/abs/1203.4745)).
+There are scholarly communication services that use author identifiers (such as ORCID) to aggregate the impact of the corresponding scholar's products. For example, [ImpactStory](http://impactstory.org) aggregates traditional citations as well as several other forms of uptake, including tweets and Wikipedia citations, that can measure different kinds of impact than scientific citations ([Priem _et al_, 2012](http://arxiv.org/abs/1203.4745)).

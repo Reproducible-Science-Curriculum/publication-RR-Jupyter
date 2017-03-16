@@ -27,8 +27,7 @@ Total: 2 hrs, 35 minutes
 ### Customization
 - If your participants are expecting to be able to create PDF images, you can instruct them to download and install the Pandoc and LaTeX packages in advance of the workshop.  However, these may produce installation troubles.
     * Use [TeX Live](https://www.tug.org/texlive/quickinstall.html) for installing TeX/LaTeX.
-    * For those using `conda` already as their installer, the following command should [install Pandoc without issue from the conda-forge](https://anaconda.org/conda-forge/pandoc):
-        conda install -c conda-forge pandoc=1.19.2
+    * For those using `conda` already as their installer, the following command should [install Pandoc without issue from the conda-forge](https://anaconda.org/conda-forge/pandoc): `$ conda install -c conda-forge pandoc=1.19.2`
 
 - If installation of TeXLive and Pandoc risk going beyond the scope of the workshop, consider using or hosting an instance of [tmpnb](https://github.com/jupyter/tmpnb), "the temporary notebook service".
     * To set this up, essentially all that's needed is Docker. This may be too much to ask of students (as it throws in another technology), but the institution hosting the workshop may already run a service for recruiting Linux VMs on the fly. The necessary machine need not have much resources - a 2GB/1CPU VM should completely suffice for our purposes, and we only need one such machine for the whole class.
@@ -142,4 +141,4 @@ Nonetheless, some data, especially data that is aggregated from many different p
 * Carroll MW. Sharing Research Data and Intellectual Property Law: A Primer. PLoS Biol. 2015;13: e1002235. [doi:10.1371/journal.pbio.1002235](http://doi.org/10.1371/journal.pbio.1002235)
 
 Open Database licensing examples:
-* [OpenStreetMap license](http://www.openstreetmap.org/copyright), which uses the [Open Data Commons Open Database License])https://opendatacommons.org/licenses/odbl/summary/)
+* [OpenStreetMap license](http://www.openstreetmap.org/copyright), which uses the [Open Data Commons Open Database License](https://opendatacommons.org/licenses/odbl/summary/)

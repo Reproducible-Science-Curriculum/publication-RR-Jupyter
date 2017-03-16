@@ -66,8 +66,6 @@ Let's think about the workflow of discovery, the user...
 
 This person would continue to move through these steps so long as the information continues to look sufficiently interesting.
 
-<iframe src="https://zenodo.org/record/158943" width=700 height=350></iframe>
-
 Metadata also aid discovery. Metadata should be clearly defined and tightly integrated with the data and project ([Hart et al. 2016](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005097#sec008)).
 
 ## Keywords, best friend/worst enemy (7 minutes)

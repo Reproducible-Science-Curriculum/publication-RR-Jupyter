@@ -77,7 +77,7 @@ The default HTML template (`full`) includes headers and everything needed to for
 $ jupyter nbconvert my_notebook.ipynb --to html --template basic --output output.html
 ```
 
-[Full documentation of the NBConvert tool]((https://nbconvert.readthedocs.io/en/latest/) is available online.
+[Full documentation of the NBConvert tool](https://nbconvert.readthedocs.io/en/latest/) is available online.
 
 ## From the web-based user interface
 
