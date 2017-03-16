@@ -22,12 +22,25 @@ Total: 2 hrs, 35 minutes
 
 ### Customization
 - If your participants are expecting to be able to create PDF images, you can instruct them to download and install the Pandoc and LaTeX packages in advance of the workshop.  However, these may produce installation troubles.
+    * Use [TeX Live](https://www.tug.org/texlive/quickinstall.html) for installing TeX/LaTeX.
+    * For those using `conda` already as their installer, the following command should [install Pandoc without issue from the conda-forge](https://anaconda.org/conda-forge/pandoc):
+        conda install -c conda-forge pandoc=1.19.2
+
+- If installation of TeXLive and Pandoc risk going beyond the scope of the workshop, consider using or hosting an instance of [tmpnb](https://github.com/jupyter/tmpnb), "the temporary notebook service".
+    * The institution hosting the workshop may already run such a service. It's worth enquiring with the campus IT group.
+
+- Time permitting, and depending on students' experience level with installing Python packages you may not currently have installed, you can also try "real" notebooks from publications or books, such as some of the following:
+    * [Notebooks from 'Python for Bioinformatics'](https://github.com/tiagoantao/bioinf-python/blob/master/notebooks/Welcome.ipynb). In particular, those under the section _Simulation in Population Genetics_ don't need to download datasets as the first step.
+    * Wang Z and Ma'ayan A. An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study [version 1; referees: 2 approved]. _F1000Research_ 2016, 5:1574 doi: [10.12688/f1000research.9110.1](http://dx.doi.org/10.12688/f1000research.9110.1) [Jupyter Notebook](https://github.com/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
+
+- For execution, can use [the `-student` version of the Data Exploration lesson's notebook](https://github.com/Reproducible-Science-Curriculum/data-exploration-RR-Jupyter/blob/master/Data_exploration_student.ipynb).
 
 ### Resources
-- We have included callouts for some of the more involved aspects of notebook conversion.
 - It is worth verifying before the lesson that your installation of the notebook gives the expected behavior with images.  The most portable thing is to embed the images in the document.
 - By default, GUI html export embeds as Base64
 - By default, GUI markdown export creates a folder and a zip
+
+- _Exporting the notebook:_ If your Jupyter notebook has plot images generated from your code, they will be embedded in your HTML and PDF documents.  If however, you export to the Markdown format, they will be included in a folder in a zipped archive.
 
 ## 2. Documentation  
 

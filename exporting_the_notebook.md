@@ -43,47 +43,62 @@ Markdown is a plain-text format that was designed to both be human-readable with
 
 LaTeX is a plain-text format designed for authoring documents that will subsequently be typeset. It is widely used in publishing, and often accepted as a manuscript submission format, especially in fields that routinely need extensive mathematical typesetting capabilities. For publishing, sharing, and reading LaTeX is often compiled into a PDF format.  Depending on your field, your co-authors may be more comfortable editing LaTeX files than Notebook files.
 
+# Exporting a Notebook
 
-## Reveal.js
+Notebooks can be exported through web-based user interface, or from the command line. The web-based interface in essence runs the same command as one would on the command line, and hence has the same installartion dependencies.
 
-# Discussion
+## Dependencies
 
-Students can discuss the formats of recent publications they have read or created recently.  We could also find examples in the literature of each format.  (PLOS, Nature)
+Exporting to LaTeX format will require [Pandoc](http://pandoc.org) to be installed. Exporting to PDF works through generating LaTeX first (and has those dependencies as well), and then needs a TeX installation to generate PDF.
 
-# Conversion of notebooks to other formats
+## From the command line
 
-One benefit of using an open format to write your research is that it is often possible to convert from the open format to other formats.
-The Jupyter Notebook allows for the conversion of the open notebook format to other formats such as PDF and HTML.
+The command is `jupyter nbconvert`, followed by notebook to convert, destination format (option `--to <format>`) and output filename (option `--output <filename>`):
 
-You can produce a converted file from the Jupyter Notebook graphical interface.
-In the File/Download As menu, there are options for
-
-## Demonstration
-
-Here we provide a short demo of downloading these formats
-
-- PDF
-- HTML
-- Markdown
-
-## Callout on PDF Export
-
-We are going to demonstrate the PDF export ability of the notebook.  To do this on your Jupyter installation will require the installation of the Pandoc and LaTeX libraries.
-
-## Callout on command-line NBConvert
-
-Also, you can perform the export functions at the command line if you want to include the conversion step in a reproducible workflow.
-
-```
-jupyter nbconvert example_jupyter_notebook.ipynb --to pdf --output output.pdf
-jupyter nbconvert example_jupyter_notebook.ipynb --to html --output output.html
-jupyter nbconvert example_jupyter_notebook.ipynb --to html --output output
+```sh
+$ jupyter nbconvert my_notebook.ipynb --to markdown --output output.md
 ```
 
-If you would like to learn more about the NBConvert tool, you can visit the
-[documentation](https://nbconvert.readthedocs.io/en/latest/).
+Or to HTML format:
 
-## Callout on images
+```sh
+$ jupyter nbconvert my_notebook.ipynb --to html --output output.html
+```
 
-If your Jupyter notebook has plot images generated from your code, they will be embedded in your HTML and PDF documents.  If however, you export to the Markdown format, they will be included in a folder in a zipped archive.
+The default HTML template (`full`) includes headers and everything needed to form a complete HTML document. If you wanted to embed the resulting HTML as a fragment into, say, [a blog post](http://nbviewer.jupyter.org/github/fperez/blog/blob/master/120907-Blogging%20with%20the%20IPython%20Notebook.ipynb), use the `basic` template:
+
+```sh
+$ jupyter nbconvert my_notebook.ipynb --to html --template basic --output output.html
+```
+
+[Full documentation of the NBConvert tool]((https://nbconvert.readthedocs.io/en/latest/) is available online.
+
+## From the web-based user interface
+
+In the _File->Download As_ menu, click the desired format. The conversion result will download to your computer.
+
+## Using `nbconvert` to execute or extract code
+
+The `jupyter nbconvert` command-line tool can be used to execute a notebook in whole and capture the result, by "converting" to the `notebook` format:
+
+```sh
+$ jupyter nbconvert --to notebook --execute my_notebook.ipynb
+```
+
+This generates `my_notebook.nbconvert.ipynb`, a new notebook that is the same as the source notebook but with all the output from code cells captured.
+
+You can also extract the code from a notebook into an executable script, i.e., for an iPython notebook extract the Python code cells into a Python script:
+
+```sh
+$ jupyter nbconvert --to script my_notebook.ipynb
+```
+
+## Exercises
+
+Use one or more of the notebooks you have created during this course.
+* Export notebook(s) to the following formats, using the web-interface and the command line: Markdown, HTML
+    * Observe which files get created in which arrangement.
+* If `pandoc` and LaTeX are installed, also convert to LaTeX and PDF. Alternatively, can use a [tmpnb](https://github.com/jupyter/tmpnb) instance.
+* Extract executable Python script from Notebook.
+* Execute notebook so that the result(s) of the code blocks is captured in a new notebook.
 
