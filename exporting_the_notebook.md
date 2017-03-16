@@ -1,21 +1,21 @@
 ---
 title: Exporting the Jupyter Notebook
-minutes: 30
+teaching: 15
+exercises: 15
+objectives:
+- Recognize and identify the various publishing related data formats.
+- Use NBConvert to export your notebooks in a variety of formats, including HTML, PDF, LaTeX, and Markdown.
+- Select an appropriate output format for your publication and justify your choice.
+keypoints:
+- Jupyter Notebooks can be converted to a number of formats relevant for scholarly communication and publishing, including HTML, PDF, and Markdown.
+- Some code repositories, including GitHub, "know" how to render Jupyter Notebook format natively, and hence can be used for publishing notebooks for public viewing.
 ---
 
 # Introduction
 
-At the end of this lesson, you will be able to
+The native Jupyter Notebook format is not (yet?) among those accepted by scholarly publishers. Nor do web browsers know how to render it. Hence, when it comes time to publish your Notebooks, whether as part of a scholarly publication or simply to the web, it needs to be exported to a suitable output format. This is what the `jupyter nbocnvert` command does.
 
-- Describe the advantages of common electronic publication formats
-- Convert your existing Jupyter Notebooks into common publication formats
-
-# Learning Objectives
-
-- Recognize and identify the various publishing related data formats.
-- Use NBConvert to export their notebooks in a variety of formats including HTML, PDF, markdown, LaTeX and Reveal.js slides.
-- Select an appropriate output format for their publication and justify their choice.
-- Create a GitHub account and upload a Jupyter notebook to your GitHub repository for public viewing. 
+In this lesson, we will look at several formats relevant to scholarly publishing and publishing to the web, and we will learn how to export a notebook to such formats.
 
 # Output formats
 
