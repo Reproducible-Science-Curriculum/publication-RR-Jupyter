@@ -3,15 +3,15 @@ title: Documentation
 teaching: 10
 exercises: 20
 questions:
-- "Why should I invest time in good documentation?"
-- “How does my target audience influence my documentation strategy?”
-- "What are some published examples of good documentation?”
+- Why should I invest time in good documentation?
+- How does my target audience influence my documentation strategy?
+- What are some published examples of good documentation?
 objectives:
 - Describe how documentation is useful to yourself and to others
 - Evaluate and rank the quality of comments in published notebooks 
 keypoints:
-- "Your code tells *what* you did. Your documentation tells *why* you did it and why it is important."
-- "Documentation is the key to communicating your workflow and findings with your future self, collaborators, peers, and the general public."
+- Your code tells *what* you did. Your documentation tells *why* you did it and why it is important.
+- Documentation is the key to communicating your workflow and findings with your future self, collaborators, peers, and the general public.
 ---
 
 ## Overview
