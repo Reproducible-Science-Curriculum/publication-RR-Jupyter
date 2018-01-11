@@ -9,11 +9,13 @@ questions:
 objectives:
 - Describe how documentation is useful to yourself and to others
 - Evaluate and rank the quality of comments in published notebooks 
+- Evaluate and rank the quality of existing metadata records.
+- Describe types of metadata directly relevant for research reproducibility.
 keypoints:
 - Your code tells *what* you did. Your documentation tells *why* you did it and why it is important.
 - Documentation is the key to communicating your workflow and findings with your future self, collaborators, peers, and the general public.
 - Jupyter Notebooks are powerful because it allows documenting the what (the code) and the why (the motivation and/or intepretation) interspersed with each other.
-
+- Good - better - best: Some metadata are already much better than none, more metadata make better metadata. 
 ---
 
 ## Overview
@@ -31,7 +33,8 @@ In this lesson, we will discuss the types and styles for documentation, their ut
 - Describe how documentation is useful to yourself and to others
 - Evaluate and rank the quality of comments in published notebooks 
 - Evaluate and rank the quality of existing metadata records.
-- Describe the types of and importance of record level metadata. 
+- Describe the types of and importance of record level metadata.
+- Describe types of metadata directly relevant for research reproducibility.
 
 ## Documentation best practices
 
@@ -71,7 +74,33 @@ Compare and contrast different research product archives for the quality and val
 * Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. http://doi.org/10.5281/zenodo.220887
 * Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. http://doi.org/10.5281/zenodo.56311
 
+## Metadata quality: Good - Better - Best
 
+> Metadata is the contextual information required to interpret data ([Fig 1](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005097#pcbi-1005097-g001)) and should be clearly defined and tightly integrated with data . The importance of metadata for context, reusability, and discovery has been written about at length in guides for data management best practices. _Hart _et al._ [Ten Simple Rules for Digital Data Storage.](http://dx.doi.org/10.1371/journal.pcbi.1005097) PLoS Comput Biol. 2016;12: e1005097_
+
+Metadata include information about data points, observations (rows, columns), samples, etc.  There are also record-level metadata (metadata of research inputs and products as records), including typically the following:
+* Title
+* Authors
+* Description
+* Keywords
+
+Good metadata are important for reproducible research, because they describe the data at various levels:, including measurement protocols, observations, versions of software and other tools, and thus provide the **context for interpreting the data, analysis, and results.**
+
+Metadata also aid discovery.
+
+### Exercise 2 (7 minutes)
+
+This is a continuation of Exercise 1. Rank the following Zenodo records from from 1 (most helpful/informative) to 3 (least helpful/informative) for metadata quality.
+
+* MS Salmanpour. (2016). Data set [Data set]. Zenodo. http://doi.org/10.5281/zenodo.193025
+* Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. http://doi.org/10.5281/zenodo.220887
+* Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. http://doi.org/10.5281/zenodo.56311
+
+Discuss the following questions:
+* What were the criteria that you used to rank?
+* What was missing?
+* What was the most helpful?
+* What was the most critical piece of information?
 
 ## Examples for learning what's possible
 
