@@ -1,7 +1,9 @@
 ---
 title: Online archiving of research inputs and outputs 
-teaching: 15
-exercises: 20
+teaching: 5
+exercises: 10
+questions:
+- How does proper online archival of research inputs and products matter for reproducible science, and why might lab websites not be enough?
 objectives:
 - Define and describe the importance of archiving research inputs and outputs.
 - Select appropriate archival services for different types of research objects.
@@ -37,23 +39,25 @@ Journal supplemental materials are popular for digital archiving (they are typic
 
 There are _many_ archives, for all imaginable purposes and domains.  In fact, there are so many that there is [re3data](http://www.re3data.org), a registry of currently >2000 repositories that allows browsing them by various attributes.
 
-### Exercise 1:
+> ## Exercise 1
+>
+> * Identify requirements and desirable features for an archive for a non-manuscript research product of your choice. Compare to lab website archiving and journal supplemental materials.
+{: .challenge}
 
-* Identify requirements and desirable features for an archive for a non-manuscript research product of your choice. Compare to lab website archiving and journal supplemental materials.
-
-### Exercise 2:
-
-Identify the research products that underly and support a manuscript of yours in preparation (or one recently published if those research products became supplementary materials or were not published). Consider the following choices of repositories for fit for purpose:
-
-* [Dryad](http://datadryad.org)
-* [Zenodo](http://zenodo.org)
-* [Harvard Dataverse](https://dataverse.harvard.edu)
-* [Figshare](http://figshare.com)
-* [Journal of Open Source Software](http://joss.theoj.org)
-* Your university's Institutional Repository (IR)
-* A public source code repository ([Github](http://github.com), [Bitbucket](http://bitbucket.com), [Gitlab](http://gitlab.com) etc)
-
-Explain your preferences, and compare to lab website and supplemental material archiving.
+> ## Exercise 2
+>
+> Identify the research products that underly and support a manuscript of yours in preparation (or one recently published if those research products became supplementary materials or were not published). Consider the following choices of repositories for fit for purpose:
+>
+> * [Dryad](http://datadryad.org)
+> * [Zenodo](http://zenodo.org)
+> * [Harvard Dataverse](https://dataverse.harvard.edu)
+> * [Figshare](http://figshare.com)
+> * [Journal of Open Source Software](http://joss.theoj.org)
+> * Your university's Institutional Repository (IR)
+> * A public source code repository ([Github](http://github.com), [Bitbucket](http://bitbucket.com), [Gitlab](http://gitlab.com) etc)
+>
+> Explain your preferences, and compare to lab website and supplemental material archiving.
+{: .challenge}
 
 ## Stable, globally unique, and resolvable identifiers for research products
 
@@ -73,4 +77,7 @@ DOIs (digital object identifiers) are only one type of unique identifier, but is
 * Publishers, and the publishing industry, knows how to deal with them.
 * Practically every scholar knows how to deal with them.
 
-While DOIs on the surface all look the same, some expectations for their associated metadata (and [programmable APIs](http://citation.crosscite.org/docs.html) differ based on the issuing DOI registrar (often referred to as "type of DOI"). In scholarly publishing and communication, the most frequently encountered DOI registrars are [CrossRef](https://www.crossref.org) (issues almost all scientific paper DOIs, works with publishers) and [DataCite](https://datacite.org). The latter is used for all kinds of "other" research products, including data, software, source code, and preprints.
+> ## CrossRef versus DataCite
+> 
+> While DOIs on the surface all look the same, some expectations for their associated metadata (and [programmable APIs](http://citation.crosscite.org/docs.html) differ based on the issuing DOI registrar (often referred to as "type of DOI"). In scholarly publishing and communication, the most frequently encountered DOI registrars are [CrossRef](https://www.crossref.org) (issues almost all scientific paper DOIs, works with publishers) and [DataCite](https://datacite.org). The latter is used for all kinds of "other" research products, including data, software, source code, and preprints.
+{: .discussion}

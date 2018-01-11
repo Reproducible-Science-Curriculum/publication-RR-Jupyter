@@ -1,7 +1,9 @@
 ---
 title: Exporting the Jupyter Notebook
 teaching: 15
-exercises: 15
+exercises: 10
+questions:
+- How can a Jupyter Notebook be converted into formats suitable for sharing and publishing when the native format is not supported by or not suitable for the recipient or purpose?
 objectives:
 - Recognize and identify the various publishing related data formats.
 - Use NBConvert to export your notebooks in a variety of formats, including HTML, PDF, LaTeX, and Markdown.
@@ -99,12 +101,12 @@ You can also extract the code from a notebook into an executable script, i.e., f
 $ jupyter nbconvert --to script my_notebook.ipynb
 ```
 
-## Exercises
-
-Use one or more of the notebooks you have created during this course.
-* Export notebook(s) to the following formats, using the web-interface and the command line: Markdown, HTML
-    * Observe which files get created in which arrangement.
-* If `pandoc` and LaTeX are installed, also convert to LaTeX and PDF. Alternatively, can use a [tmpnb](https://github.com/jupyter/tmpnb) instance.
-* Extract executable Python script from Notebook.
-* Execute notebook so that the result(s) of the code blocks is captured in a new notebook.
-
+> ## Exercises
+>
+> Use one or more of the notebooks you have created during this course.
+> * Export notebook(s) to the following formats, using the web-interface and the command line: Markdown, HTML
+>    * Observe which files get created in which arrangement.
+> * If `pandoc` and LaTeX are installed, also convert to LaTeX and PDF. Alternatively, can use a [tmpnb](https://github.com/jupyter/tmpnb) instance.
+> * Extract executable Python script from Notebook.
+>* Execute notebook so that the result(s) of the code blocks is captured in a new notebook.
+{: .challenge}

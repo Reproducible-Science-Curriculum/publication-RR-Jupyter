@@ -1,7 +1,7 @@
 ---
 title: Documentation
 teaching: 10
-exercises: 20
+exercises: 15
 questions:
 - Why should I invest time in good documentation?
 - How does my target audience influence my documentation strategy?
@@ -15,7 +15,7 @@ keypoints:
 - Your code tells *what* you did. Your documentation tells *why* you did it and why it is important.
 - Documentation is the key to communicating your workflow and findings with your future self, collaborators, peers, and the general public.
 - Jupyter Notebooks are powerful because it allows documenting the what (the code) and the why (the motivation and/or intepretation) interspersed with each other.
-- Good - better - best: Some metadata are already much better than none, more metadata make better metadata. 
+- Good, better, best: Some metadata are already much better than none, more metadata make better metadata. 
 ---
 
 ## Overview
@@ -66,13 +66,14 @@ Based on the above, items to include in a README file include the following:
 - any relevant weblinks
 - how to cite and license and/or terms of reuse
 
-### Exercise 1
-
-Compare and contrast different research product archives for the quality and value of their documentation, and their corresponding utility for reuse.
-
-* MS Salmanpour. (2016). Data set [Data set]. Zenodo. http://doi.org/10.5281/zenodo.193025
-* Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. http://doi.org/10.5281/zenodo.220887
-* Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. http://doi.org/10.5281/zenodo.56311
+> ## Exercise 1
+>
+> Compare and contrast different research product archives for the quality and value of their documentation, and their corresponding utility for reuse.
+>
+> * MS Salmanpour. (2016). Data set [Data set]. Zenodo. http://doi.org/10.5281/zenodo.193025
+> * Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. http://doi.org/10.5281/zenodo.220887
+> * Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. http://doi.org/10.5281/zenodo.56311
+{: .challenge}
 
 ## Metadata quality: Good - Better - Best
 
@@ -88,13 +89,14 @@ Good metadata are important for reproducible research, because they describe the
 
 Metadata also aid discovery.
 
-### Exercise 2 (7 minutes)
-
-This is a continuation of Exercise 1. Rank the following Zenodo records from from 1 (most helpful/informative) to 3 (least helpful/informative) for metadata quality.
-
-* MS Salmanpour. (2016). Data set [Data set]. Zenodo. http://doi.org/10.5281/zenodo.193025
-* Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. http://doi.org/10.5281/zenodo.220887
-* Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. http://doi.org/10.5281/zenodo.56311
+> ## Exercise 2 (7 minutes)
+>
+> This is a continuation of Exercise 1. Rank the following Zenodo records from from 1 (most helpful/informative) to 3 (least helpful/informative) for metadata quality.
+> 
+> * MS Salmanpour. (2016). Data set [Data set]. Zenodo. http://doi.org/10.5281/zenodo.193025
+> * Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. http://doi.org/10.5281/zenodo.220887
+> * Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. http://doi.org/10.5281/zenodo.56311
+{: .challenge}
 
 Discuss the following questions:
 * What were the criteria that you used to rank?
@@ -102,8 +104,9 @@ Discuss the following questions:
 * What was the most helpful?
 * What was the most critical piece of information?
 
-## Examples for learning what's possible
-
-- [_Gallery of IPython Notebooks_](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) that have been used for scientific research and educational tutorials. Browse the topics that pique your curiosity.
-- [Wang and Ma'ayan's Zika manuscript](https://github.com/MaayanLab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
-- [The Python for Bioinformatics textbook, a collection of notebooks](https://github.com/tiagoantao/bioinf-python/blob/master/notebooks/Welcome.ipynb)
+> ## Examples for learning what's possible
+> 
+> - [_Gallery of IPython Notebooks_](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) that have been used for scientific research and educational tutorials. Browse the topics that pique your curiosity.
+> - [Wang and Ma'ayan's Zika manuscript](https://github.com/MaayanLab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
+> - [The Python for Bioinformatics textbook, a collection of notebooks](https://github.com/tiagoantao/bioinf-python/blob/master/notebooks/Welcome.ipynb)
+{: .discussion}
