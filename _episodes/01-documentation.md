@@ -70,9 +70,9 @@ Based on the above, items to include in a README file include the following:
 >
 > Compare and contrast different research product archives for the quality and value of their documentation, and their corresponding utility for reuse.
 >
-> * MS Salmanpour. (2016). Data set [Data set]. Zenodo. http://doi.org/10.5281/zenodo.193025
-> * Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. http://doi.org/10.5281/zenodo.220887
-> * Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. http://doi.org/10.5281/zenodo.56311
+> * MS Salmanpour. (2016). Data set [Data set]. Zenodo. <http://doi.org/10.5281/zenodo.193025>
+> * Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. <http://doi.org/10.5281/zenodo.220887>
+> * Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. <http://doi.org/10.5281/zenodo.56311>
 {: .challenge}
 
 ## Metadata quality: Good - Better - Best
@@ -93,9 +93,9 @@ Metadata also aid discovery.
 >
 > This is a continuation of Exercise 1. Rank the following Zenodo records from from 1 (most helpful/informative) to 3 (least helpful/informative) for metadata quality.
 > 
-> * MS Salmanpour. (2016). Data set [Data set]. Zenodo. http://doi.org/10.5281/zenodo.193025
-> * Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. http://doi.org/10.5281/zenodo.220887
-> * Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. http://doi.org/10.5281/zenodo.56311
+> * MS Salmanpour. (2016). Data set [Data set]. Zenodo. <http://doi.org/10.5281/zenodo.193025>
+> * Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. <http://doi.org/10.5281/zenodo.220887>
+> * Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. <http://doi.org/10.5281/zenodo.56311>
 {: .challenge}
 
 Discuss the following questions:
