@@ -15,7 +15,7 @@ keypoints:
 - Your code tells *what* you did. Your documentation tells *why* you did it and why it is important.
 - Documentation is the key to communicating your workflow and findings with your future self, collaborators, peers, and the general public.
 - Jupyter Notebooks are powerful because it allows documenting the what (the code) and the why (the motivation and/or intepretation) interspersed with each other.
-- Good, better, best: Some metadata are already much better than none, more metadata make better metadata. 
+- "Good, better, best: Some metadata are already much better than none, more metadata make better metadata."
 ---
 
 ## Overview
