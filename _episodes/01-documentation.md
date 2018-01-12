@@ -89,20 +89,21 @@ Good metadata are important for reproducible research, because they describe the
 
 Metadata also aid discovery.
 
-> ## Exercise 2 (7 minutes)
+> ## Exercise 2
 >
 > This is a continuation of Exercise 1. Rank the following Zenodo records from from 1 (most helpful/informative) to 3 (least helpful/informative) for metadata quality.
 > 
 > * MS Salmanpour. (2016). Data set [Data set]. Zenodo. <http://doi.org/10.5281/zenodo.193025>
 > * Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. <http://doi.org/10.5281/zenodo.220887>
 > * Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. <http://doi.org/10.5281/zenodo.56311>
+>
+> Discuss the following questions:
+> * What were the criteria that you used to rank?
+> * What was missing?
+> * What was the most helpful?
+> * What was the most critical piece of information?
 {: .challenge}
 
-Discuss the following questions:
-* What were the criteria that you used to rank?
-* What was missing?
-* What was the most helpful?
-* What was the most critical piece of information?
 
 > ## Examples for learning what's possible
 > 
