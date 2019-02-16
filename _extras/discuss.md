@@ -20,7 +20,7 @@ By publishing a research product, as a scholar one usually intends to benefit fr
 
 ### References and URLs
 
-1. Morin A, Urban J, Sliz P. A Quick Guide to Software Licensing for the Scientist-Programmer. Lewitter F, editor. PLoS Comput Biol. 2012;8: e1002598. [doi:10.1371/journal.pcbi.1002598](http://doi.org/10.1371/journal.pcbi.1002598)
-2. Carroll MW. Sharing Research Data and Intellectual Property Law: A Primer. PLoS Biol. 2015;13: e1002235. [doi:10.1371/journal.pbio.1002235](http://dx.doi.org/10.1371/journal.pbio.1002235)
-3. Patterson DJ, Egloff W, Agosti D, Eades D, Franz N, Hagedorn G, et al. Scientific names of organisms: attribution, rights, and licensing. BMC Res Notes. 2014;7: 79. [doi:10.1186/1756-0500-7-79](http://dx.doi.org/10.1186/1756-0500-7-79)
-4. Hrynaszkiewicz I, Busch S, Cockerill MJ. Licensing the future: report on BioMed Central’s public consultation on open data in peer-reviewed journals. BMC Res Notes. 2013;6: 318. [doi:10.1186/1756-0500-6-318](http://dx.doi.org/10.1186/1756-0500-6-318)
+1. Morin A, Urban J, Sliz P. A Quick Guide to Software Licensing for the Scientist-Programmer. Lewitter F, editor. PLoS Comput Biol. 2012;8: e1002598. [doi:10.1371/journal.pcbi.1002598](https://doi.org/10.1371/journal.pcbi.1002598)
+2. Carroll MW. Sharing Research Data and Intellectual Property Law: A Primer. PLoS Biol. 2015;13: e1002235. [doi:10.1371/journal.pbio.1002235](https://doi.org/10.1371/journal.pbio.1002235)
+3. Patterson DJ, Egloff W, Agosti D, Eades D, Franz N, Hagedorn G, et al. Scientific names of organisms: attribution, rights, and licensing. BMC Res Notes. 2014;7: 79. [doi:10.1186/1756-0500-7-79](https://doi.org/10.1186/1756-0500-7-79)
+4. Hrynaszkiewicz I, Busch S, Cockerill MJ. Licensing the future: report on BioMed Central’s public consultation on open data in peer-reviewed journals. BMC Res Notes. 2013;6: 318. [doi:10.1186/1756-0500-6-318](https://doi.org/10.1186/1756-0500-6-318)

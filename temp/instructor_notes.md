@@ -35,7 +35,7 @@ Total: 2 hrs, 35 minutes
 
 - Time permitting, and depending on students' experience level with installing Python packages you may not currently have installed, you can also try "real" notebooks from publications or books, such as some of the following:
     * [Notebooks from 'Python for Bioinformatics'](https://github.com/tiagoantao/bioinf-python/blob/master/notebooks/Welcome.ipynb). In particular, those under the section _Simulation in Population Genetics_ don't need to download datasets as the first step.
-    * Wang Z and Ma'ayan A. An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study [version 1; referees: 2 approved]. _F1000Research_ 2016, 5:1574 doi: [10.12688/f1000research.9110.1](http://dx.doi.org/10.12688/f1000research.9110.1) [Jupyter Notebook](https://github.com/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
+    * Wang Z and Ma'ayan A. An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study [version 1; referees: 2 approved]. _F1000Research_ 2016, 5:1574 doi: [10.12688/f1000research.9110.1](https://doi.org/10.12688/f1000research.9110.1) [Jupyter Notebook](https://github.com/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
 
 - For execution, can use [the `-student` version of the Data Exploration lesson's notebook](https://github.com/Reproducible-Science-Curriculum/data-exploration-RR-Jupyter/blob/master/Data_exploration_student.ipynb).
 
@@ -55,15 +55,15 @@ Total: 2 hrs, 35 minutes
 ### Resources
 
 #### Exercise 3:
-* MS Salmanpour. (2016). Data set [Data set]. Zenodo. http://doi.org/10.5281/zenodo.193025
+* MS Salmanpour. (2016). Data set [Data set]. Zenodo. https://doi.org/10.5281/zenodo.193025
     - Meaningless title, no description, no README
     - no links to anything
     - proprietary file format
-* Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. http://doi.org/10.5281/zenodo.220887
+* Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. https://doi.org/10.5281/zenodo.220887
     - Title with useful information. No description, no README
     - no links to anything
     - open reusable data format
-* Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. http://doi.org/10.5281/zenodo.56311
+* Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. https://doi.org/10.5281/zenodo.56311
     - Informative title and short description. README file.
     - Links to Github, from README to paper and Zenodo archive, from paper to Github and Zenodo archive
     - Everything in open reusable formats
@@ -138,7 +138,7 @@ Nonetheless, some data, especially data that is aggregated from many different p
 * Guide to [Open Data Licensing](http://opendefinition.org/guide/data/)
 * [University of Illinois - Research Data Sharing and Licensing](http://www.library.illinois.edu/sc/services/data_management/sharing.html)
 * Ball A. How to License Research Data [Internet]. Edinburgh, UK: Digital Curation Centre; 2014. Available: http://www.dcc.ac.uk/resources/how-guides/license-research-data
-* Carroll MW. Sharing Research Data and Intellectual Property Law: A Primer. PLoS Biol. 2015;13: e1002235. [doi:10.1371/journal.pbio.1002235](http://doi.org/10.1371/journal.pbio.1002235)
+* Carroll MW. Sharing Research Data and Intellectual Property Law: A Primer. PLoS Biol. 2015;13: e1002235. [doi:10.1371/journal.pbio.1002235](https://doi.org/10.1371/journal.pbio.1002235)
 
 Open Database licensing examples:
 * [OpenStreetMap license](http://www.openstreetmap.org/copyright), which uses the [Open Data Commons Open Database License](https://opendatacommons.org/licenses/odbl/summary/)
