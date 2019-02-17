@@ -70,14 +70,14 @@ Based on the above, items to include in a README file include the following:
 >
 > Compare and contrast different research product archives for the quality and value of their documentation, and their corresponding utility for reuse.
 >
-> * MS Salmanpour. (2016). Data set [Data set]. Zenodo. <http://doi.org/10.5281/zenodo.193025>
-> * Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. <http://doi.org/10.5281/zenodo.220887>
-> * Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. <http://doi.org/10.5281/zenodo.56311>
+> * MS Salmanpour. (2016). Data set [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.193025>
+> * Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.220887>
+> * Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. <https://doi.org/10.5281/zenodo.56311>
 {: .challenge}
 
 ## Metadata quality: Good - Better - Best
 
-> Metadata is the contextual information required to interpret data ([Fig 1](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005097#pcbi-1005097-g001)) and should be clearly defined and tightly integrated with data . The importance of metadata for context, reusability, and discovery has been written about at length in guides for data management best practices. _Hart _et al._ [Ten Simple Rules for Digital Data Storage.](http://dx.doi.org/10.1371/journal.pcbi.1005097) PLoS Comput Biol. 2016;12: e1005097_
+> Metadata is the contextual information required to interpret data ([Fig 1](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005097#pcbi-1005097-g001)) and should be clearly defined and tightly integrated with data . The importance of metadata for context, reusability, and discovery has been written about at length in guides for data management best practices. _Hart _et al._ [Ten Simple Rules for Digital Data Storage.](https://doi.org/10.1371/journal.pcbi.1005097) PLoS Comput Biol. 2016;12: e1005097_
 
 Metadata include information about data points, observations (rows, columns), samples, etc.  There are also record-level metadata (metadata of research inputs and products as records), including typically the following:
 * Title
@@ -93,9 +93,9 @@ Metadata also aid discovery.
 >
 > This is a continuation of Exercise 1. Rank the following Zenodo records from from 1 (most helpful/informative) to 3 (least helpful/informative) for metadata quality.
 > 
-> * MS Salmanpour. (2016). Data set [Data set]. Zenodo. <http://doi.org/10.5281/zenodo.193025>
-> * Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. <http://doi.org/10.5281/zenodo.220887>
-> * Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. <http://doi.org/10.5281/zenodo.56311>
+> * MS Salmanpour. (2016). Data set [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.193025>
+> * Solange Duruz. (2016). Simulated breed for GENMON [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.220887>
+> * Zichen Wang, Avi Ma'ayan. Zika-RNAseq-Pipeline v0.1. Zenodo; 2016. <https://doi.org/10.5281/zenodo.56311>
 >
 > Discuss the following questions:
 > * What were the criteria that you used to rank?
