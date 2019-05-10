@@ -15,7 +15,7 @@ keypoints:
 
 # Introduction
 
-The native Jupyter Notebook format is not (yet?) among those accepted by scholarly publishers. Nor do web browsers know how to render it. Hence, when it comes time to publish your Notebooks, whether as part of a scholarly publication or simply to the web, it needs to be exported to a suitable output format. This is what the `jupyter nbocnvert` command does.
+The native Jupyter Notebook format is not (yet?) among those accepted by scholarly publishers. Nor do web browsers know how to render it. Hence, when it comes time to publish your Notebooks, whether as part of a scholarly publication or simply to the web, it needs to be exported to a suitable output format. This is what the `jupyter nbconvert` command does.
 
 In this lesson, we will look at several formats relevant to scholarly publishing and publishing to the web, and we will learn how to export a notebook to such formats.
 
